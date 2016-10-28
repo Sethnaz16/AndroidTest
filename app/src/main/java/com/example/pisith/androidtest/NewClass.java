@@ -2,7 +2,9 @@ package com.example.pisith.androidtest;
 
 
 public class NewClass {
-    public NewClass() {
-        super();
+    private String name;
+
+    public NewClass(String name) {
+        this.name = name;
     }
 }
