@@ -21,5 +21,6 @@ public class Name {
 
     public void doSomething() {
         System.out.println("Hello World");
+        System.out.println("Never mind");
     }
 }
